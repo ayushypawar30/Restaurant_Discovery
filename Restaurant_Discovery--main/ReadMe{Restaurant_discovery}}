@@ -1,0 +1,36 @@
+# 🍽 Restaurant Discovery Website
+
+A responsive frontend web application that displays real-time restaurant data using an external API.  
+Built to practice API integration, filtering logic, and modular UI architecture.
+
+## 🚀 Features
+
+- 🔍 Search restaurants by name
+- ⭐ Filter restaurants based on ratings
+- 🍜 Filter by cuisines
+- ⚡ Real-time data fetching from external API
+- 📱 Fully responsive design
+
+
+## 🛠 Tech Stack
+
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- REST API Integration
+
+## 🧠 What I Learned
+
+- Handling asynchronous API calls using fetch / async-await
+- Managing loading and error states
+- Component-based architecture in React
+- Implementing dynamic filtering logic
+- Writing clean and reusable UI components
+
+## 📂 Project Structure
+
+- Components-based modular structure
+- API service handling
+- Reusable restaurant card component
+- Search & filter functionality
